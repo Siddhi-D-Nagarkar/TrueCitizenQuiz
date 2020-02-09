@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="TextViewText">Who Won The Maharastara Election  </string>
+    <string name="True_Text">True</string>
+    <string name="False_Text">False</string>
+    <string name="one">Sunset In The West </string>
+    <string name="two">Siddhi IS best At Android  </string>
+    <string name="three">Maharashtra election is with shivsena  </string>
+    <string name="four">Surat is at North of India </string>
+    <string name="five">Literacy Rate At Kereala is 0 </string>
+    <string name="nextbutton">Next</string>
+</resources>
